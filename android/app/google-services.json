@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "374565220105",
+    "firebase_url": "https://h3lth-project-default-rtdb.firebaseio.com",
+    "project_id": "h3lth-project",
+    "storage_bucket": "h3lth-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374565220105:android:8f440cbcab34b004e1add8",
+        "android_client_info": {
+          "package_name": "com.example.second_opinion_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374565220105-t7k5d9h1qgatkb3cu3vo9o1c5mus4vc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Vm6ctvukfrbdMbQmqBxDBPVlYoaJ03g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374565220105-t7k5d9h1qgatkb3cu3vo9o1c5mus4vc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

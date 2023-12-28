@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>374565220105-8ribeko2g1oa541kv4cm737opi61vds6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.374565220105-8ribeko2g1oa541kv4cm737opi61vds6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD-WUqOqLZGvStSyn4kL9mp2aVQi4DTcsI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>374565220105</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.secondOpinionApp</string>
+	<key>PROJECT_ID</key>
+	<string>h3lth-project</string>
+	<key>STORAGE_BUCKET</key>
+	<string>h3lth-project.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:374565220105:ios:91ffb583e4e47b35e1add8</string>
+	<key>DATABASE_URL</key>
+	<string>https://h3lth-project-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="unselected_opinion" transform="translate(-92 -601)">
+    <g id="stethoscope" transform="translate(92 601)">
+      <path id="Path_31" data-name="Path 31" d="M0,0H20V20H0Z" fill="none"/>
+      <path id="Path_32" data-name="Path 32" d="M5,3.333H4.167A1.667,1.667,0,0,0,2.5,5V7.917h0a4.583,4.583,0,1,0,9.167,0V5A1.667,1.667,0,0,0,10,3.333H9.167" fill="none" stroke="#cdcdcd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+      <path id="Path_33" data-name="Path 33" d="M6.667,12.5a5,5,0,1,0,10,0V10" fill="none" stroke="#cdcdcd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+      <path id="Path_34" data-name="Path 34" d="M9.167,2.5V4.167" fill="none" stroke="#cdcdcd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+      <path id="Path_35" data-name="Path 35" d="M5,2.5V4.167" fill="none" stroke="#cdcdcd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+      <circle id="Ellipse_11" data-name="Ellipse 11" cx="1.667" cy="1.667" r="1.667" transform="translate(15 6.667)" fill="none" stroke="#cdcdcd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+    </g>
+  </g>
+</svg>
